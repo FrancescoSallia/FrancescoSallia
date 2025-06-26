@@ -1,5 +1,9 @@
-<p align="center">
+<!--<p align="center">
   <img src="https://camo.githubusercontent.com/6a9884826749d338bab5112298db4e70c5c97bf6fd016f367e7bfc8ffc7e65cf/68747470733a2f2f6261636b6965652e636f6d2f7374617469632f77616c6c7061706572732f31303030783536332f3338363734352e6a7067" width="100000">
+</p> --->
+
+<p align="center">
+  <img src="file:///Users/francescosallia/Downloads/Mobile%20Developer%20Business%20Id%20Card.png" width="100000">
 </p>
 
 <h1 align="center">Hi 👋, I'm Francesco</h1>
@@ -12,7 +16,7 @@
 
 - 🔭 I’m currently working on [GreenScan](https://github.com/FrancescoSallia/GreenScan)
 
-- 🌱 I’m currently learning  **Flutter**
+- 🌱 I’m currently learning  **Jetpack Compose**
 
 # 📫 How to reach me:
 [![Xing](https://img.shields.io/badge/Xing-026466?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Francesco_Sallia01216/)
