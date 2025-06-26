@@ -3,7 +3,7 @@
 </p> --->
 
 <p align="center">
-  <img src="file:///Users/francescosallia/Downloads/Mobile%20Developer%20Business%20Id%20Card.png" width="100000">
+  <img src="Images/Mobile Developer Business Id Card.png" width="1000">
 </p>
 
 <h1 align="center">Hi 👋, I'm Francesco</h1>
