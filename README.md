@@ -14,8 +14,7 @@
 # 💫 About Me:
 
 
-- 🔭 I’m currently working on [GreenScan](https://github.com/FrancescoSallia/GreenScan)
-
+- 🔭 I’m currently working on [Quizzy](https://github.com/FrancescoSallia/Quizzy)
 - 🌱 I’m currently learning  **Jetpack Compose**
 
 # 📫 How to reach me:
