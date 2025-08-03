@@ -14,7 +14,7 @@
 # 💫 About Me:
 
 
-- 🔭 I’m currently working on [Quizzy](https://github.com/FrancescoSallia/Quizzy)
+- 🔭 I’m currently working on [Fast-Shop](https://github.com/FrancescoSallia/Fast-Shop)
 - 🌱 I’m currently learning  **Combine & XCTest**
 
 # 📫 How to reach me:
