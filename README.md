@@ -15,7 +15,7 @@
 
 
 - 🔭 I’m currently working on [Invoicy](https://github.com/FrancescoSallia/Invoicy_iOS))
-- 🌱 I’m currently learning  **Combine & XCTest**
+- 🌱 I’m currently learning  **Flutter & Dart**
 
 # 📫 How to reach me:
 [![Xing](https://img.shields.io/badge/Xing-026466?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Francesco_Sallia01216/)
