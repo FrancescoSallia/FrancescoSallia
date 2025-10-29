@@ -27,6 +27,7 @@
 ![Provider](https://img.shields.io/badge/Provider-0C8CE9?style=for-the-badge&logo=flutter&logoColor=white)
 ![MVVM](https://img.shields.io/badge/Architecture-MVVM-6DB33F?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Android%20|%20iOS-blue?style=for-the-badge)
+![State Management](https://img.shields.io/badge/State%20Management-Riverpod-blue?style=for-the-badge)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=FrancescoSallia&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
