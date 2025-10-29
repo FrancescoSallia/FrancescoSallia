@@ -14,7 +14,7 @@
 # 💫 About Me:
 
 
-- 🔭 I’m currently working on [YKO'S- BBQ CHICKEN](https://github.com/FrancescoSallia/Yko-s-BBQ-Chicken))
+- 🔭 I’m currently working on [CocktailDB_Riverpod](https://github.com/FrancescoSallia/CocktailDB_Riverpod)
 - 🌱 I’m currently learning  **Flutter & Dart**
 
 # 📫 How to reach me:
