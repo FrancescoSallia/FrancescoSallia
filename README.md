@@ -28,6 +28,7 @@
 ![MVVM](https://img.shields.io/badge/Architecture-MVVM-6DB33F?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Android%20|%20iOS-blue?style=for-the-badge)
 ![State Management](https://img.shields.io/badge/State%20Management-Riverpod-blue?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=FrancescoSallia&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
